@@ -31,3 +31,22 @@ class ImportantQuestionsLocators:
     ANSWER_6_PANEL_TEXT = 'Самокат приезжает к вам с полной зарядкой. Этого хватает на восемь суток — даже если будете кататься без передышек и во сне. Зарядка не понадобится.'
     ANSWER_7_PANEL_TEXT = 'Да, пока самокат не привезли. Штрафа не будет, объяснительной записки тоже не попросим. Все же свои.'
     ANSWER_8_PANEL_TEXT = 'Да, обязательно. Всем самокатов! И Москве, и Московской области.'
+
+    QUESTIONS_AND_ANSWERS = {
+        "QUESTION_1_BUTTON": (
+        ANSWER_1_PANEL, ANSWER_1_PANEL_TEXT),
+        "QUESTION_2_BUTTON": (
+        ANSWER_2_PANEL, ANSWER_2_PANEL_TEXT),
+        "QUESTION_3_BUTTON": (
+        ANSWER_3_PANEL, ANSWER_3_PANEL_TEXT),
+        "QUESTION_4_BUTTON": (
+        ANSWER_4_PANEL, ANSWER_4_PANEL_TEXT),
+        "QUESTION_5_BUTTON": (
+        ANSWER_5_PANEL, ANSWER_5_PANEL_TEXT),
+        "QUESTION_6_BUTTON": (
+        ANSWER_6_PANEL, ANSWER_6_PANEL_TEXT),
+        "QUESTION_7_BUTTON": (
+        ANSWER_7_PANEL, ANSWER_7_PANEL_TEXT),
+        "QUESTION_8_BUTTON": (
+        ANSWER_8_PANEL, ANSWER_8_PANEL_TEXT),
+    }
